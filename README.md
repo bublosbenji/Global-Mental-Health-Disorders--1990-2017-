@@ -22,3 +22,4 @@ The dataset does not extend beyond 2017, limiting the ability to assess the impa
 ### Conclusion and Implications:
 "Global Mental Health Disorders (1990-2017)" provides valuable insights into the prevalence and impact of mental health disorders globally, emphasizing the importance of mental health awareness and intervention. The findings underscore the need for accessible mental health services and the importance of continued research and data collection to understand and address the evolving landscape of global mental health. The project highlights the critical role of mental health in public health and the necessity of addressing mental health disorders as a global priority.
  
+### View my Tableau Dashboard: https://public.tableau.com/views/MentalHealtDisordersdashboard/GlobalMentalDisorders?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
